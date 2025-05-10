@@ -17,6 +17,11 @@ With hands-on experience in AWS, Linux, Docker, GitHub Actions, and Terraform, I
 - 
 - 🧠 Skills: Bash | Linux | Git | Docker | CI/CD | Networking
 
+- ## 📫 Contact
+
+- LinkedIn:  https://www.linkedin.com/in/mohammedalharbi128
+- Email: mohalharbi128@gmail.com
+
 ---
 
 🌟 _"Cloud is not just a technology—it's a mindset of continuous improvement."_  
