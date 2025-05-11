@@ -14,7 +14,7 @@ With hands-on experience in AWS, Linux, Docker, GitHub Actions, and Terraform, I
 ## 📚 Certifications & Skills
 
 - ✅ AWS Certified Solutions Architect – Associate
-- 🧠 Skills: Bash | Linux | Git | Docker | CI/CD | 
+- 🧠 Skills: Aws| Linux | Git | Docker | CI/CD | Bash | RedHat
 
 - ## 📫 Contact
 
